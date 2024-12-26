@@ -2,8 +2,10 @@ asgiref==3.8.1
 click==8.1.8
 colorama==0.4.6
 Django==5.1.4
+gunicorn==23.0.0
 joblib==1.4.2
 nltk==3.9.1
+packaging==24.2
 regex==2024.11.6
 sqlparse==0.5.3
 textblob==0.18.0.post0
