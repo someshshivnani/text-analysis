@@ -1,0 +1,1 @@
+gunicorn textutils.wsgi:application --log-file /var/log/gunicorn/textutils.log
